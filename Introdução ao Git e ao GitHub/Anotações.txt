@@ -1,0 +1,9 @@
+#Alguns comandos muito utilizados no Git:
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+O Git Bash é um terminal extendido para otimizar o uso do Git.
